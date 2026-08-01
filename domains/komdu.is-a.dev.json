@@ -1,0 +1,9 @@
+{
+  "owner": {
+    "username": "Komdu",
+    "email": "komdu228.p@gmail.com"
+  },
+  "record": {
+    "NS": ["corey.ns.cloudflare.com", "elma.ns.cloudflare.com"]
+  }
+}
